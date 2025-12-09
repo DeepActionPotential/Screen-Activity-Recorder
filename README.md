@@ -42,7 +42,7 @@ Below are sample images from the application (stored in the `demo/` directory):
 
 ### after
 
-![demo5](demo/5.PNG)
+![demo5](demo/5.png)
 
 
 

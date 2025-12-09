@@ -1,6 +1,6 @@
-# Activity Screen Recorder (Beta)
+# Screen Activity Recorder (Beta)
 
-Activity Screen Recorder is a desktop application that captures screen activity, tracks active applications, extracts text using OCR, detects sensitive information using NER, and stores everything in a searchable FAISS index.
+Screen Activity Recorder is a desktop application that captures screen activity, tracks active applications, extracts text using OCR, detects sensitive information using NER, and stores everything in a searchable FAISS index.
 The goal is to provide a lightweight knowledge timeline of your computer usage that you can search later by keywords, applications, or screenshot content.
 
 This project is currently in **beta**. Features and stability may change frequently.

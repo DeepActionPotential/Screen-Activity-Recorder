@@ -51,7 +51,7 @@ Below are sample images from the application (stored in the `demo/` directory):
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/activity-screen-recorder.git](https://github.com/DeepActionPotential/Screen-Activity-Recorder)
+git clone https://github.com/DeepActionPotential/Screen-Activity-Recorder
 cd activity-screen-recorder
 ```
 
